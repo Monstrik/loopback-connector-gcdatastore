@@ -1,17 +1,17 @@
-# README #
+# loopback-connector-gcdatastore #
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
 
-* Quick summary
-* Version
+### Loopback.io connector for Google Cloud Datastore ###
+
+* Connector for Google Cloud Datastore 0.6.0
+* 0.1.0
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+### Set up? ###
 
-* Summary of set up
-* Configuration
+* npm i 
+* Copy to node-modules nfiguration
 * Dependencies
 * Database configuration
 * How to run tests
